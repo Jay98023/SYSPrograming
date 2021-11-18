@@ -1,0 +1,16 @@
+C:\Users\Jayde\Favorites\GitHub\FM2A\BO TD\SYS\Les 5\ConsoleApp5\bin\Debug\net5.0\ConsoleApp5.exe
+C:\Users\Jayde\Favorites\GitHub\FM2A\BO TD\SYS\Les 5\ConsoleApp5\bin\Debug\net5.0\ConsoleApp5.deps.json
+C:\Users\Jayde\Favorites\GitHub\FM2A\BO TD\SYS\Les 5\ConsoleApp5\bin\Debug\net5.0\ConsoleApp5.runtimeconfig.json
+C:\Users\Jayde\Favorites\GitHub\FM2A\BO TD\SYS\Les 5\ConsoleApp5\bin\Debug\net5.0\ConsoleApp5.runtimeconfig.dev.json
+C:\Users\Jayde\Favorites\GitHub\FM2A\BO TD\SYS\Les 5\ConsoleApp5\bin\Debug\net5.0\ConsoleApp5.dll
+C:\Users\Jayde\Favorites\GitHub\FM2A\BO TD\SYS\Les 5\ConsoleApp5\bin\Debug\net5.0\ref\ConsoleApp5.dll
+C:\Users\Jayde\Favorites\GitHub\FM2A\BO TD\SYS\Les 5\ConsoleApp5\bin\Debug\net5.0\ConsoleApp5.pdb
+C:\Users\Jayde\Favorites\GitHub\FM2A\BO TD\SYS\Les 5\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\Jayde\Favorites\GitHub\FM2A\BO TD\SYS\Les 5\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayde\Favorites\GitHub\FM2A\BO TD\SYS\Les 5\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Users\Jayde\Favorites\GitHub\FM2A\BO TD\SYS\Les 5\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.AssemblyInfo.cs
+C:\Users\Jayde\Favorites\GitHub\FM2A\BO TD\SYS\Les 5\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Jayde\Favorites\GitHub\FM2A\BO TD\SYS\Les 5\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.dll
+C:\Users\Jayde\Favorites\GitHub\FM2A\BO TD\SYS\Les 5\ConsoleApp5\obj\Debug\net5.0\ref\ConsoleApp5.dll
+C:\Users\Jayde\Favorites\GitHub\FM2A\BO TD\SYS\Les 5\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.pdb
+C:\Users\Jayde\Favorites\GitHub\FM2A\BO TD\SYS\Les 5\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.genruntimeconfig.cache
